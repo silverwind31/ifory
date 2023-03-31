@@ -1,0 +1,42 @@
+// SECTION ABOUT US
+.about_us{
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 162.02%;
+    color: #DDDDDD;
+    margin-bottom: 45px;
+
+    span{
+        font-weight: 600;
+        color: #fff;
+    }
+}
+
+// SECTION SUBSCRIBE
+.subscribe_form{
+    text-align: center;
+    background: #2575FC;
+    padding: 29px 0;
+    margin-bottom: 50px;
+
+    .subscribe_form_row{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        .subscribe_title{
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 162.02%;
+            color: #fff;
+        }
+        .subscribe_description{
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 162.02%;
+            color: rgba(255, 255, 255, 0.8);
+        }
+    }
+    
+}

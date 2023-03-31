@@ -1,0 +1,17 @@
+// SECTION REFUND
+.refund_policy{
+    margin-bottom: 50px;
+    .section_title{
+        font-size: 34px;
+        margin-bottom: 20px;
+    }
+    .section_texts{
+        font-weight: 500;
+    }
+    span{
+        font-weight: 800;
+    }
+    .lowercase{
+        text-transform: lowercase;
+    }
+}
